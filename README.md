@@ -1,5 +1,5 @@
 ##### 初衷：在开发pinpoint,skywalking agent过程中有时候想看看修改后的字节码.
-
+test
 ##### 打包方式：在目录下执行：mvn clean install -Dmaven.test.skip，
 
 ##### 启动方式：执行后打包命令后在starter/target后生成：friday-starter.tar.gz，解压后执行bin/run.sh即可
